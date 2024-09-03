@@ -1,0 +1,7 @@
+﻿  main.c
+C:\Users\misiu\Documents\GitHub\HellsGate\HellsGate\main.c(53,30): warning C4133: 'function': incompatible types - from 'wchar_t *' to 'const char *'
+C:\Users\misiu\Documents\GitHub\HellsGate\HellsGate\main.c(93,18): warning C4020: 'Payload': too many actual parameters
+C:\Users\misiu\Documents\GitHub\HellsGate\HellsGate\main.c(183,6): warning C4029: declared formal parameter list different from definition
+C:\Users\misiu\Documents\GitHub\HellsGate\HellsGate\main.c(190,22): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+C:\Users\misiu\Documents\GitHub\HellsGate\HellsGate\main.c(238,9): warning C4090: 'initializing': different 'const' qualifiers
+  HellsGate.vcxproj -> C:\Users\misiu\Documents\GitHub\HellsGate\x64\Debug\HellsGate.exe
